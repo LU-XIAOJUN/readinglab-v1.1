@@ -1,0 +1,23 @@
+
+# RACE dataset (local only)
+RACE/
+RACE.tar.gz
+
+# Local dataset-derived files
+data/
+
+# Question-level retrieval records
+results/*_ranks.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local environments and secrets
+.venv/
+venv/
+.env
+.env.*
+
+# macOS system files
+.DS_Store
