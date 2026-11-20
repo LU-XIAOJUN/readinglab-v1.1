@@ -1,0 +1,9 @@
+{
+  "method": "TF-IDF",
+  "dataset": "RACE-H",
+  "num_documents": 200,
+  "num_queries": 673,
+  "hit_at_1": 0.5230312035661219,
+  "hit_at_5": 0.6017830609212481,
+  "mrr": 0.5653227154579086
+}

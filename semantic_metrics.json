@@ -1,0 +1,13 @@
+{
+  "method": "Sentence Transformers",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "dataset": "RACE-H",
+  "num_documents": 200,
+  "num_queries": 673,
+  "total_chunks": 424,
+  "chunk_size": 240,
+  "pooling": "mean",
+  "hit_at_1": 0.4888558692421991,
+  "hit_at_5": 0.5809806835066865,
+  "mrr": 0.5336690226683055
+}
